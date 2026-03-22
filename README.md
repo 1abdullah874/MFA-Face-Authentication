@@ -1,4 +1,7 @@
 # MFA-Face-Authentication
+
+⚠️ This is an educational/demo project.
+Not recommended for production use without additional hardening.
 Multi-factor authentication system using face recognition + password — runs 100% offline, no API key needed.
 
 
