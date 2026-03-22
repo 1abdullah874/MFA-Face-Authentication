@@ -1,0 +1,2 @@
+Install: pip install face_recognition opencv-python PySide6 bcrypt numpy
+Run: python main.py
